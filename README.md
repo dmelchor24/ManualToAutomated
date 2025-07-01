@@ -3,7 +3,7 @@
 
 ---
 
-# 📂 What Does This Application Do?
+# 📂 What does this application do?
 1. 📤 Allows you to upload a .csv file with your test cases.
 2. ✅ Validates that the file contains the correct column headers.
 3. 🤖 Automatically generates test scripts using Robot Framework.
@@ -34,11 +34,13 @@ You can find a sample file at:
 # 📁 Suggested Project Structure (Based on POM)
 Once the file is processed, the Robot Framework project is recommended to follow this structure:
 
-/tests/         → Test cases organized by functionality  
-/resources/     → Page objects  
-/keywords/      → Reusable keywords  
-/variables/     → Common data, environment, credentials  
-/results/       → Execution reports (output.xml, log.html, report.html)
+| Path                 | Description                         |
+| ---------------------| ----------------------------------- |
+|/tests/               | Test cases organized by functionality |
+|/resources/           | Page objects |
+|/keywords/            | Reusable keywords |
+|/variables/           | Common data, environment, credentials |
+|/results/             |Execution reports (output.xml, log.html, report.html) |
 
 ---
 
@@ -46,4 +48,4 @@ Once the file is processed, the Robot Framework project is recommended to follow
 1. 🔽 Upload your .csv file containing the test cases.
 2. 🤖 The system will automatically generate the .robot scripts.
 3. 📦 Download the scripts and place them in the recommended project structure.
-4. 🧪 Run your tests using the command: `bash robot tests/`
+4. 🧪 Run your tests using the command: `robot tests/`
