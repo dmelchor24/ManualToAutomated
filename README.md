@@ -4,10 +4,10 @@
 ---
 
 # 📂 What Does This Application Do?
-📤 Allows you to upload a .csv file with your test cases.
-✅ Validates that the file contains the correct column headers.
-🤖 Automatically generates test scripts using Robot Framework.
-🗂️ Suggests a modular project structure following the Page Object Model (POM) pattern.
+1. 📤 Allows you to upload a .csv file with your test cases.
+2. ✅ Validates that the file contains the correct column headers.
+3. 🤖 Automatically generates test scripts using Robot Framework.
+4. 🗂️ Suggests a modular project structure following the Page Object Model (POM) pattern.
 
 ---
 
