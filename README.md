@@ -11,7 +11,7 @@
 
 ---
 
-# 🧾 .csv File Requirements
+# 🧾 `.csv` File Requirements
 The file must contain the following headers, written exactly as shown:
 
 | Column                 | Description                         |
@@ -43,7 +43,7 @@ Once the file is processed, the Robot Framework project is recommended to follow
 ---
 
 # 🚀 How to Use the Converter
-🔽 Upload your .csv file containing the test cases.
-🤖 The system will automatically generate the .robot scripts.
-📦 Download the scripts and place them in the recommended project structure.
-🧪 Run your tests using the command: ```bash robot tests/
+1. 🔽 Upload your .csv file containing the test cases.
+2. 🤖 The system will automatically generate the .robot scripts.
+3. 📦 Download the scripts and place them in the recommended project structure.
+4. 🧪 Run your tests using the command: `bash robot tests/`
