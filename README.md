@@ -17,17 +17,17 @@ The file must contain the following headers, written exactly as shown:
 | Column                 | Description                         |
 | ---------------------- | ----------------------------------- |
 | 🆔 `ID`                | Unique identifier for the test case |
-| 📛 `Nombre de TC`      | Descriptive name of the test case   |
-| 📝 `Descripción de TC` | Short summary of the objective      |
-| 🔢 `# Paso`            | Step number                         |
-| ⚙️ `Acción`            | Action to perform in the step       |
-| 📥 `Datos`             | Input data, if applicable           |
-| ✅ `Resultado Esperado` | Expected result to verify           |
+| 📛 `TC Name`      | Descriptive name of the test case   |
+| 📝 `TC Description` | Short summary of the objective      |
+| 🔢 `Step`            | Step number                         |
+| ⚙️ `Action`            | Action to perform in the step       |
+| 📥 `Data`             | Input data, if applicable           |
+| ✅ `Expected Result` | Expected result to verify           |
 
 > ⚠️ If any column is missing or misspelled, the file will be rejected.
 
 You can find a sample file at:
-📄 [`/examples/test_cases_template.csv`](./examples/test_cases_template.csv)
+📄 [`/examples/Test_Cases_EN.csv`](./examples/Test_Cases_EN.csv)
 
 ---
 
