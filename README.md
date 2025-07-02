@@ -44,7 +44,7 @@ Once the file is processed, the Robot Framework project is recommended to follow
 
 ---
 
-# 🚀 How to Use the Converter
+# 🚀 How to use the converter
 1. 🔽 Upload your .csv file containing the test cases.
 2. 🤖 The system will automatically generate the .robot scripts.
 3. 📦 Download the scripts and place them in the recommended project structure.
